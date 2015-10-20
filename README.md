@@ -5,7 +5,7 @@ return a nicely formatted time difference string
 
 ## Installation
 
-  npm install timeago --save
+  npm install git://github.com/danleyb2/timeago.git#0.1.0
 
 ## Usage
 
